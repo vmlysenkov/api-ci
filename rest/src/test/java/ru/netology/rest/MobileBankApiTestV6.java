@@ -18,6 +18,7 @@ class MobileBankApiTestV6 {
         .log(LogDetail.ALL)
         .build();
 
+
     @Test
     void shouldReturnDemoAccounts() {
       // Given - When - Then
